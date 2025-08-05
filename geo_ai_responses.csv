@@ -1,0 +1,501 @@
+platform,query,brand,mentioned,position,sentiment_score,accuracy_score,date
+ChatGPT,What is the best CRM software for small business?,TechFlow Solutions,True,3.0,-0.51,0.66,2025-07-23 12:22:48.133741
+ChatGPT,What is the best CRM software for small business?,DataVise Analytics,False,,,,2025-07-25 12:22:48.133761
+ChatGPT,What is the best CRM software for small business?,CloudShift Pro,True,1.0,-0.56,0.8,2025-08-02 12:22:48.133772
+ChatGPT,What is the best CRM software for small business?,AI Insights Corp,False,,,,2025-05-08 12:22:48.133777
+ChatGPT,What is the best CRM software for small business?,DigitalEdge Systems,True,5.0,-0.44,0.95,2025-07-16 12:22:48.133784
+ChatGPT,Top CRM software for enterprise companies,TechFlow Solutions,True,2.0,-0.57,0.91,2025-07-23 12:22:48.133791
+ChatGPT,Top CRM software for enterprise companies,DataVise Analytics,True,3.0,0.21,0.92,2025-06-08 12:22:48.133796
+ChatGPT,Top CRM software for enterprise companies,CloudShift Pro,False,,,,2025-06-18 12:22:48.133799
+ChatGPT,Top CRM software for enterprise companies,AI Insights Corp,False,,,,2025-05-17 12:22:48.133802
+ChatGPT,Top CRM software for enterprise companies,DigitalEdge Systems,False,,,,2025-05-24 12:22:48.133806
+ChatGPT,How to choose CRM software for my company?,TechFlow Solutions,True,2.0,0.55,0.99,2025-07-07 12:22:48.133811
+ChatGPT,How to choose CRM software for my company?,DataVise Analytics,True,4.0,0.27,0.75,2025-06-19 12:22:48.133816
+ChatGPT,How to choose CRM software for my company?,CloudShift Pro,False,,,,2025-05-08 12:22:48.133820
+ChatGPT,How to choose CRM software for my company?,AI Insights Corp,True,5.0,0.27,0.81,2025-07-05 12:22:48.133825
+ChatGPT,How to choose CRM software for my company?,DigitalEdge Systems,False,,,,2025-05-16 12:22:48.133828
+ChatGPT,Compare CRM software options,TechFlow Solutions,True,3.0,0.69,0.91,2025-07-07 12:22:48.133833
+ChatGPT,Compare CRM software options,DataVise Analytics,False,,,,2025-06-15 12:22:48.133836
+ChatGPT,Compare CRM software options,CloudShift Pro,True,5.0,0.75,0.73,2025-05-14 12:22:48.133842
+ChatGPT,Compare CRM software options,AI Insights Corp,False,,,,2025-05-15 12:22:48.133844
+ChatGPT,Compare CRM software options,DigitalEdge Systems,True,2.0,0.49,0.82,2025-05-23 12:22:48.133849
+ChatGPT,Reviews of CRM software providers,TechFlow Solutions,False,,,,2025-06-20 12:22:48.133852
+ChatGPT,Reviews of CRM software providers,DataVise Analytics,False,,,,2025-06-01 12:22:48.133855
+ChatGPT,Reviews of CRM software providers,CloudShift Pro,False,,,,2025-07-22 12:22:48.133858
+ChatGPT,Reviews of CRM software providers,AI Insights Corp,True,4.0,0.19,0.75,2025-05-21 12:22:48.133863
+ChatGPT,Reviews of CRM software providers,DigitalEdge Systems,True,5.0,0.72,0.6,2025-07-22 12:22:48.133868
+ChatGPT,Affordable CRM software solutions,TechFlow Solutions,True,3.0,0.54,0.74,2025-06-29 12:22:48.133980
+ChatGPT,Affordable CRM software solutions,DataVise Analytics,False,,,,2025-07-03 12:22:48.133988
+ChatGPT,Affordable CRM software solutions,CloudShift Pro,True,5.0,0.83,0.95,2025-06-28 12:22:48.133996
+ChatGPT,Affordable CRM software solutions,AI Insights Corp,True,2.0,-0.69,0.91,2025-05-28 12:22:48.134002
+ChatGPT,Affordable CRM software solutions,DigitalEdge Systems,False,,,,2025-08-05 12:22:48.134004
+ChatGPT,Best CRM software for startups,TechFlow Solutions,True,1.0,0.86,0.95,2025-06-27 12:22:48.134011
+ChatGPT,Best CRM software for startups,DataVise Analytics,True,5.0,0.89,0.63,2025-06-04 12:22:48.134016
+ChatGPT,Best CRM software for startups,CloudShift Pro,False,,,,2025-05-29 12:22:48.134020
+ChatGPT,Best CRM software for startups,AI Insights Corp,True,4.0,0.89,0.67,2025-05-30 12:22:48.134025
+ChatGPT,Best CRM software for startups,DigitalEdge Systems,True,2.0,0.86,0.9,2025-05-09 12:22:48.134031
+ChatGPT,CRM software pricing comparison,TechFlow Solutions,False,,,,2025-05-12 12:22:48.134034
+ChatGPT,CRM software pricing comparison,DataVise Analytics,True,5.0,-0.1,0.7,2025-07-28 12:22:48.134040
+ChatGPT,CRM software pricing comparison,CloudShift Pro,False,,,,2025-07-07 12:22:48.134044
+ChatGPT,CRM software pricing comparison,AI Insights Corp,True,1.0,-0.54,0.96,2025-06-24 12:22:48.134050
+ChatGPT,CRM software pricing comparison,DigitalEdge Systems,False,,,,2025-05-12 12:22:48.134054
+ChatGPT,Implementation guide for CRM software,TechFlow Solutions,False,,,,2025-05-24 12:22:48.134057
+ChatGPT,Implementation guide for CRM software,DataVise Analytics,True,4.0,0.61,0.68,2025-07-24 12:22:48.134063
+ChatGPT,Implementation guide for CRM software,CloudShift Pro,True,4.0,-0.07,0.89,2025-05-11 12:22:48.134069
+ChatGPT,Implementation guide for CRM software,AI Insights Corp,False,,,,2025-07-29 12:22:48.134072
+ChatGPT,Implementation guide for CRM software,DigitalEdge Systems,True,1.0,-0.5,0.68,2025-06-09 12:22:48.134078
+ChatGPT,ROI of CRM software investment,TechFlow Solutions,True,4.0,-0.5,0.97,2025-06-10 12:22:48.134083
+ChatGPT,ROI of CRM software investment,DataVise Analytics,False,,,,2025-07-24 12:22:48.134087
+ChatGPT,ROI of CRM software investment,CloudShift Pro,False,,,,2025-08-04 12:22:48.134090
+ChatGPT,ROI of CRM software investment,AI Insights Corp,False,,,,2025-07-06 12:22:48.134092
+ChatGPT,ROI of CRM software investment,DigitalEdge Systems,False,,,,2025-07-09 12:22:48.134095
+ChatGPT,What is the best data analytics platform for small business?,TechFlow Solutions,False,,,,2025-07-15 12:22:48.134098
+ChatGPT,What is the best data analytics platform for small business?,DataVise Analytics,False,,,,2025-07-03 12:22:48.134100
+ChatGPT,What is the best data analytics platform for small business?,CloudShift Pro,False,,,,2025-06-30 12:22:48.134103
+ChatGPT,What is the best data analytics platform for small business?,AI Insights Corp,False,,,,2025-05-26 12:22:48.134106
+ChatGPT,What is the best data analytics platform for small business?,DigitalEdge Systems,True,2.0,-0.41,0.99,2025-05-23 12:22:48.134112
+ChatGPT,Top data analytics platform for enterprise companies,TechFlow Solutions,True,3.0,-0.89,0.83,2025-06-02 12:22:48.134117
+ChatGPT,Top data analytics platform for enterprise companies,DataVise Analytics,True,1.0,0.92,0.63,2025-07-13 12:22:48.134130
+ChatGPT,Top data analytics platform for enterprise companies,CloudShift Pro,True,2.0,-0.19,0.98,2025-05-25 12:22:48.134135
+ChatGPT,Top data analytics platform for enterprise companies,AI Insights Corp,False,,,,2025-05-18 12:22:48.134138
+ChatGPT,Top data analytics platform for enterprise companies,DigitalEdge Systems,False,,,,2025-05-25 12:22:48.134141
+ChatGPT,How to choose data analytics platform for my company?,TechFlow Solutions,False,,,,2025-07-10 12:22:48.134144
+ChatGPT,How to choose data analytics platform for my company?,DataVise Analytics,True,3.0,-0.21,0.87,2025-06-28 12:22:48.134149
+ChatGPT,How to choose data analytics platform for my company?,CloudShift Pro,False,,,,2025-07-27 12:22:48.134152
+ChatGPT,How to choose data analytics platform for my company?,AI Insights Corp,False,,,,2025-05-25 12:22:48.134155
+ChatGPT,How to choose data analytics platform for my company?,DigitalEdge Systems,True,2.0,0.01,0.65,2025-06-22 12:22:48.134160
+ChatGPT,Compare data analytics platform options,TechFlow Solutions,False,,,,2025-06-19 12:22:48.134164
+ChatGPT,Compare data analytics platform options,DataVise Analytics,False,,,,2025-05-28 12:22:48.134166
+ChatGPT,Compare data analytics platform options,CloudShift Pro,False,,,,2025-05-14 12:22:48.134169
+ChatGPT,Compare data analytics platform options,AI Insights Corp,False,,,,2025-05-27 12:22:48.134172
+ChatGPT,Compare data analytics platform options,DigitalEdge Systems,False,,,,2025-07-19 12:22:48.134174
+ChatGPT,Reviews of data analytics platform providers,TechFlow Solutions,False,,,,2025-05-27 12:22:48.134177
+ChatGPT,Reviews of data analytics platform providers,DataVise Analytics,False,,,,2025-07-10 12:22:48.134180
+ChatGPT,Reviews of data analytics platform providers,CloudShift Pro,True,3.0,0.01,0.7,2025-07-30 12:22:48.134196
+ChatGPT,Reviews of data analytics platform providers,AI Insights Corp,False,,,,2025-07-01 12:22:48.134199
+ChatGPT,Reviews of data analytics platform providers,DigitalEdge Systems,False,,,,2025-07-20 12:22:48.134202
+ChatGPT,Affordable data analytics platform solutions,TechFlow Solutions,True,4.0,0.1,0.77,2025-08-04 12:22:48.134208
+ChatGPT,Affordable data analytics platform solutions,DataVise Analytics,False,,,,2025-05-09 12:22:48.134215
+ChatGPT,Affordable data analytics platform solutions,CloudShift Pro,True,3.0,0.17,0.66,2025-07-20 12:22:48.134252
+ChatGPT,Affordable data analytics platform solutions,AI Insights Corp,False,,,,2025-07-31 12:22:48.134259
+ChatGPT,Affordable data analytics platform solutions,DigitalEdge Systems,True,2.0,0.33,0.74,2025-05-26 12:22:48.134268
+ChatGPT,Best data analytics platform for startups,TechFlow Solutions,True,5.0,0.5,0.97,2025-07-06 12:22:48.134274
+ChatGPT,Best data analytics platform for startups,DataVise Analytics,False,,,,2025-07-14 12:22:48.134278
+ChatGPT,Best data analytics platform for startups,CloudShift Pro,True,3.0,0.56,0.76,2025-05-12 12:22:48.134284
+ChatGPT,Best data analytics platform for startups,AI Insights Corp,False,,,,2025-07-02 12:22:48.134287
+ChatGPT,Best data analytics platform for startups,DigitalEdge Systems,False,,,,2025-06-18 12:22:48.134290
+ChatGPT,data analytics platform pricing comparison,TechFlow Solutions,False,,,,2025-07-08 12:22:48.134293
+ChatGPT,data analytics platform pricing comparison,DataVise Analytics,False,,,,2025-06-22 12:22:48.134296
+ChatGPT,data analytics platform pricing comparison,CloudShift Pro,False,,,,2025-07-07 12:22:48.134299
+ChatGPT,data analytics platform pricing comparison,AI Insights Corp,False,,,,2025-06-15 12:22:48.134302
+ChatGPT,data analytics platform pricing comparison,DigitalEdge Systems,False,,,,2025-07-01 12:22:48.134304
+ChatGPT,Implementation guide for data analytics platform,TechFlow Solutions,False,,,,2025-05-11 12:22:48.134307
+ChatGPT,Implementation guide for data analytics platform,DataVise Analytics,True,1.0,-0.77,0.99,2025-07-14 12:22:48.134313
+ChatGPT,Implementation guide for data analytics platform,CloudShift Pro,False,,,,2025-08-01 12:22:48.134316
+ChatGPT,Implementation guide for data analytics platform,AI Insights Corp,False,,,,2025-06-26 12:22:48.134319
+ChatGPT,Implementation guide for data analytics platform,DigitalEdge Systems,False,,,,2025-07-22 12:22:48.134322
+ChatGPT,ROI of data analytics platform investment,TechFlow Solutions,False,,,,2025-07-04 12:22:48.134330
+ChatGPT,ROI of data analytics platform investment,DataVise Analytics,False,,,,2025-05-31 12:22:48.134333
+ChatGPT,ROI of data analytics platform investment,CloudShift Pro,True,2.0,-0.27,0.63,2025-05-12 12:22:48.134338
+ChatGPT,ROI of data analytics platform investment,AI Insights Corp,True,1.0,0.44,0.72,2025-06-27 12:22:48.134344
+ChatGPT,ROI of data analytics platform investment,DigitalEdge Systems,True,3.0,0.11,0.68,2025-05-12 12:22:48.134350
+Perplexity,What is the best CRM software for small business?,TechFlow Solutions,True,2.0,0.23,0.72,2025-05-27 12:22:48.134358
+Perplexity,What is the best CRM software for small business?,DataVise Analytics,True,2.0,-0.14,0.83,2025-05-14 12:22:48.134363
+Perplexity,What is the best CRM software for small business?,CloudShift Pro,False,,,,2025-05-11 12:22:48.134366
+Perplexity,What is the best CRM software for small business?,AI Insights Corp,False,,,,2025-07-15 12:22:48.134369
+Perplexity,What is the best CRM software for small business?,DigitalEdge Systems,True,5.0,-0.33,0.93,2025-07-06 12:22:48.134433
+Perplexity,Top CRM software for enterprise companies,TechFlow Solutions,True,2.0,-0.71,0.62,2025-06-06 12:22:48.134441
+Perplexity,Top CRM software for enterprise companies,DataVise Analytics,False,,,,2025-06-08 12:22:48.134445
+Perplexity,Top CRM software for enterprise companies,CloudShift Pro,False,,,,2025-07-12 12:22:48.134449
+Perplexity,Top CRM software for enterprise companies,AI Insights Corp,True,4.0,-0.51,0.86,2025-08-05 12:22:48.134455
+Perplexity,Top CRM software for enterprise companies,DigitalEdge Systems,False,,,,2025-07-23 12:22:48.134458
+Perplexity,How to choose CRM software for my company?,TechFlow Solutions,True,5.0,-0.07,0.82,2025-07-21 12:22:48.134464
+Perplexity,How to choose CRM software for my company?,DataVise Analytics,False,,,,2025-05-12 12:22:48.134468
+Perplexity,How to choose CRM software for my company?,CloudShift Pro,False,,,,2025-06-26 12:22:48.134530
+Perplexity,How to choose CRM software for my company?,AI Insights Corp,False,,,,2025-05-19 12:22:48.134536
+Perplexity,How to choose CRM software for my company?,DigitalEdge Systems,False,,,,2025-06-12 12:22:48.134538
+Perplexity,Compare CRM software options,TechFlow Solutions,True,2.0,0.49,0.79,2025-07-03 12:22:48.134552
+Perplexity,Compare CRM software options,DataVise Analytics,False,,,,2025-07-01 12:22:48.134555
+Perplexity,Compare CRM software options,CloudShift Pro,True,2.0,-0.45,0.63,2025-06-30 12:22:48.134560
+Perplexity,Compare CRM software options,AI Insights Corp,False,,,,2025-05-28 12:22:48.134563
+Perplexity,Compare CRM software options,DigitalEdge Systems,True,4.0,0.39,0.88,2025-07-28 12:22:48.134568
+Perplexity,Reviews of CRM software providers,TechFlow Solutions,True,4.0,-0.17,0.68,2025-06-13 12:22:48.134574
+Perplexity,Reviews of CRM software providers,DataVise Analytics,False,,,,2025-05-08 12:22:48.134617
+Perplexity,Reviews of CRM software providers,CloudShift Pro,False,,,,2025-05-24 12:22:48.134625
+Perplexity,Reviews of CRM software providers,AI Insights Corp,True,3.0,-0.4,0.76,2025-06-13 12:22:48.134635
+Perplexity,Reviews of CRM software providers,DigitalEdge Systems,False,,,,2025-05-20 12:22:48.134638
+Perplexity,Affordable CRM software solutions,TechFlow Solutions,True,3.0,-0.13,0.61,2025-06-23 12:22:48.134644
+Perplexity,Affordable CRM software solutions,DataVise Analytics,False,,,,2025-07-15 12:22:48.134647
+Perplexity,Affordable CRM software solutions,CloudShift Pro,False,,,,2025-05-18 12:22:48.134650
+Perplexity,Affordable CRM software solutions,AI Insights Corp,False,,,,2025-05-22 12:22:48.134653
+Perplexity,Affordable CRM software solutions,DigitalEdge Systems,True,4.0,-0.73,0.78,2025-07-30 12:22:48.134659
+Perplexity,Best CRM software for startups,TechFlow Solutions,False,,,,2025-06-08 12:22:48.134662
+Perplexity,Best CRM software for startups,DataVise Analytics,False,,,,2025-06-18 12:22:48.134665
+Perplexity,Best CRM software for startups,CloudShift Pro,False,,,,2025-06-13 12:22:48.134668
+Perplexity,Best CRM software for startups,AI Insights Corp,True,1.0,0.5,0.62,2025-06-22 12:22:48.134673
+Perplexity,Best CRM software for startups,DigitalEdge Systems,True,1.0,0.51,0.98,2025-07-11 12:22:48.134684
+Perplexity,CRM software pricing comparison,TechFlow Solutions,True,2.0,-0.75,0.87,2025-05-25 12:22:48.134689
+Perplexity,CRM software pricing comparison,DataVise Analytics,True,3.0,0.53,0.67,2025-05-20 12:22:48.134694
+Perplexity,CRM software pricing comparison,CloudShift Pro,True,2.0,0.93,0.64,2025-08-02 12:22:48.134699
+Perplexity,CRM software pricing comparison,AI Insights Corp,True,4.0,-0.21,0.89,2025-07-27 12:22:48.134705
+Perplexity,CRM software pricing comparison,DigitalEdge Systems,False,,,,2025-07-05 12:22:48.134708
+Perplexity,Implementation guide for CRM software,TechFlow Solutions,False,,,,2025-05-10 12:22:48.134711
+Perplexity,Implementation guide for CRM software,DataVise Analytics,True,5.0,0.57,0.74,2025-06-12 12:22:48.134716
+Perplexity,Implementation guide for CRM software,CloudShift Pro,True,3.0,-0.97,0.77,2025-06-04 12:22:48.134721
+Perplexity,Implementation guide for CRM software,AI Insights Corp,False,,,,2025-05-16 12:22:48.134724
+Perplexity,Implementation guide for CRM software,DigitalEdge Systems,True,2.0,-0.13,0.89,2025-05-14 12:22:48.134729
+Perplexity,ROI of CRM software investment,TechFlow Solutions,False,,,,2025-05-29 12:22:48.134732
+Perplexity,ROI of CRM software investment,DataVise Analytics,True,5.0,-0.46,0.94,2025-07-25 12:22:48.134737
+Perplexity,ROI of CRM software investment,CloudShift Pro,False,,,,2025-06-07 12:22:48.134739
+Perplexity,ROI of CRM software investment,AI Insights Corp,False,,,,2025-06-23 12:22:48.134742
+Perplexity,ROI of CRM software investment,DigitalEdge Systems,False,,,,2025-07-13 12:22:48.134745
+Perplexity,What is the best data analytics platform for small business?,TechFlow Solutions,True,3.0,-0.32,0.95,2025-05-08 12:22:48.134751
+Perplexity,What is the best data analytics platform for small business?,DataVise Analytics,True,5.0,0.9,0.63,2025-06-14 12:22:48.134756
+Perplexity,What is the best data analytics platform for small business?,CloudShift Pro,False,,,,2025-05-09 12:22:48.134758
+Perplexity,What is the best data analytics platform for small business?,AI Insights Corp,False,,,,2025-06-09 12:22:48.134761
+Perplexity,What is the best data analytics platform for small business?,DigitalEdge Systems,True,2.0,-0.19,0.7,2025-05-13 12:22:48.134770
+Perplexity,Top data analytics platform for enterprise companies,TechFlow Solutions,True,5.0,-0.31,1.0,2025-05-27 12:22:48.134776
+Perplexity,Top data analytics platform for enterprise companies,DataVise Analytics,False,,,,2025-07-02 12:22:48.134779
+Perplexity,Top data analytics platform for enterprise companies,CloudShift Pro,True,2.0,-0.37,0.9,2025-05-09 12:22:48.134785
+Perplexity,Top data analytics platform for enterprise companies,AI Insights Corp,True,4.0,-0.45,0.84,2025-05-30 12:22:48.134790
+Perplexity,Top data analytics platform for enterprise companies,DigitalEdge Systems,False,,,,2025-07-12 12:22:48.134793
+Perplexity,How to choose data analytics platform for my company?,TechFlow Solutions,False,,,,2025-06-28 12:22:48.134795
+Perplexity,How to choose data analytics platform for my company?,DataVise Analytics,False,,,,2025-07-01 12:22:48.134798
+Perplexity,How to choose data analytics platform for my company?,CloudShift Pro,True,3.0,0.39,0.65,2025-06-04 12:22:48.134804
+Perplexity,How to choose data analytics platform for my company?,AI Insights Corp,True,3.0,-0.06,0.78,2025-07-13 12:22:48.134809
+Perplexity,How to choose data analytics platform for my company?,DigitalEdge Systems,True,4.0,-0.77,0.63,2025-06-04 12:22:48.134814
+Perplexity,Compare data analytics platform options,TechFlow Solutions,False,,,,2025-07-30 12:22:48.134817
+Perplexity,Compare data analytics platform options,DataVise Analytics,False,,,,2025-06-28 12:22:48.134820
+Perplexity,Compare data analytics platform options,CloudShift Pro,False,,,,2025-05-26 12:22:48.134822
+Perplexity,Compare data analytics platform options,AI Insights Corp,True,5.0,-0.55,0.81,2025-06-09 12:22:48.134828
+Perplexity,Compare data analytics platform options,DigitalEdge Systems,True,5.0,0.98,0.72,2025-05-18 12:22:48.134833
+Perplexity,Reviews of data analytics platform providers,TechFlow Solutions,False,,,,2025-07-24 12:22:48.134836
+Perplexity,Reviews of data analytics platform providers,DataVise Analytics,True,2.0,-0.47,0.63,2025-07-06 12:22:48.134841
+Perplexity,Reviews of data analytics platform providers,CloudShift Pro,True,1.0,-0.18,0.88,2025-06-06 12:22:48.134846
+Perplexity,Reviews of data analytics platform providers,AI Insights Corp,True,3.0,0.41,0.78,2025-05-10 12:22:48.134856
+Perplexity,Reviews of data analytics platform providers,DigitalEdge Systems,False,,,,2025-05-17 12:22:48.134859
+Perplexity,Affordable data analytics platform solutions,TechFlow Solutions,False,,,,2025-07-11 12:22:48.134862
+Perplexity,Affordable data analytics platform solutions,DataVise Analytics,False,,,,2025-05-15 12:22:48.134864
+Perplexity,Affordable data analytics platform solutions,CloudShift Pro,False,,,,2025-07-18 12:22:48.134867
+Perplexity,Affordable data analytics platform solutions,AI Insights Corp,False,,,,2025-06-27 12:22:48.134869
+Perplexity,Affordable data analytics platform solutions,DigitalEdge Systems,False,,,,2025-06-30 12:22:48.134872
+Perplexity,Best data analytics platform for startups,TechFlow Solutions,False,,,,2025-06-28 12:22:48.134875
+Perplexity,Best data analytics platform for startups,DataVise Analytics,False,,,,2025-06-02 12:22:48.134878
+Perplexity,Best data analytics platform for startups,CloudShift Pro,True,5.0,-0.92,0.77,2025-06-25 12:22:48.134883
+Perplexity,Best data analytics platform for startups,AI Insights Corp,True,2.0,0.92,0.93,2025-05-24 12:22:48.134888
+Perplexity,Best data analytics platform for startups,DigitalEdge Systems,True,3.0,0.15,0.91,2025-07-14 12:22:48.134893
+Perplexity,data analytics platform pricing comparison,TechFlow Solutions,False,,,,2025-07-01 12:22:48.134896
+Perplexity,data analytics platform pricing comparison,DataVise Analytics,False,,,,2025-05-16 12:22:48.134899
+Perplexity,data analytics platform pricing comparison,CloudShift Pro,False,,,,2025-06-06 12:22:48.134901
+Perplexity,data analytics platform pricing comparison,AI Insights Corp,True,1.0,0.72,0.73,2025-05-09 12:22:48.134906
+Perplexity,data analytics platform pricing comparison,DigitalEdge Systems,False,,,,2025-06-15 12:22:48.134909
+Perplexity,Implementation guide for data analytics platform,TechFlow Solutions,True,4.0,-0.82,0.7,2025-07-22 12:22:48.134914
+Perplexity,Implementation guide for data analytics platform,DataVise Analytics,True,5.0,0.65,0.6,2025-05-28 12:22:48.134919
+Perplexity,Implementation guide for data analytics platform,CloudShift Pro,True,5.0,-0.28,0.9,2025-05-17 12:22:48.134924
+Perplexity,Implementation guide for data analytics platform,AI Insights Corp,True,3.0,0.1,0.97,2025-06-10 12:22:48.134932
+Perplexity,Implementation guide for data analytics platform,DigitalEdge Systems,True,1.0,0.95,0.84,2025-07-06 12:22:48.134937
+Perplexity,ROI of data analytics platform investment,TechFlow Solutions,True,1.0,0.1,0.64,2025-07-22 12:22:48.134942
+Perplexity,ROI of data analytics platform investment,DataVise Analytics,True,2.0,-0.0,0.89,2025-06-01 12:22:48.134948
+Perplexity,ROI of data analytics platform investment,CloudShift Pro,True,4.0,0.96,0.7,2025-05-27 12:22:48.135095
+Perplexity,ROI of data analytics platform investment,AI Insights Corp,True,5.0,0.02,0.95,2025-07-28 12:22:48.135107
+Perplexity,ROI of data analytics platform investment,DigitalEdge Systems,False,,,,2025-06-13 12:22:48.135111
+Claude,What is the best CRM software for small business?,TechFlow Solutions,False,,,,2025-07-02 12:22:48.135122
+Claude,What is the best CRM software for small business?,DataVise Analytics,True,3.0,0.67,0.83,2025-05-13 12:22:48.135128
+Claude,What is the best CRM software for small business?,CloudShift Pro,True,5.0,-0.03,0.73,2025-05-28 12:22:48.135133
+Claude,What is the best CRM software for small business?,AI Insights Corp,False,,,,2025-07-12 12:22:48.135136
+Claude,What is the best CRM software for small business?,DigitalEdge Systems,True,4.0,-0.53,0.91,2025-07-31 12:22:48.135141
+Claude,Top CRM software for enterprise companies,TechFlow Solutions,False,,,,2025-06-18 12:22:48.135144
+Claude,Top CRM software for enterprise companies,DataVise Analytics,False,,,,2025-05-14 12:22:48.135147
+Claude,Top CRM software for enterprise companies,CloudShift Pro,True,1.0,-0.75,0.99,2025-06-24 12:22:48.135152
+Claude,Top CRM software for enterprise companies,AI Insights Corp,False,,,,2025-06-10 12:22:48.135155
+Claude,Top CRM software for enterprise companies,DigitalEdge Systems,False,,,,2025-08-04 12:22:48.135158
+Claude,How to choose CRM software for my company?,TechFlow Solutions,True,2.0,-0.85,0.91,2025-07-03 12:22:48.135163
+Claude,How to choose CRM software for my company?,DataVise Analytics,False,,,,2025-05-14 12:22:48.135166
+Claude,How to choose CRM software for my company?,CloudShift Pro,False,,,,2025-05-11 12:22:48.135172
+Claude,How to choose CRM software for my company?,AI Insights Corp,True,3.0,0.25,0.95,2025-06-04 12:22:48.135177
+Claude,How to choose CRM software for my company?,DigitalEdge Systems,True,1.0,-0.53,0.87,2025-06-30 12:22:48.135182
+Claude,Compare CRM software options,TechFlow Solutions,True,4.0,0.96,0.9,2025-05-07 12:22:48.135195
+Claude,Compare CRM software options,DataVise Analytics,True,3.0,0.81,0.62,2025-07-29 12:22:48.135200
+Claude,Compare CRM software options,CloudShift Pro,False,,,,2025-07-18 12:22:48.135202
+Claude,Compare CRM software options,AI Insights Corp,False,,,,2025-05-10 12:22:48.135205
+Claude,Compare CRM software options,DigitalEdge Systems,True,1.0,0.22,0.75,2025-05-10 12:22:48.135210
+Claude,Reviews of CRM software providers,TechFlow Solutions,False,,,,2025-07-18 12:22:48.135213
+Claude,Reviews of CRM software providers,DataVise Analytics,False,,,,2025-06-08 12:22:48.135216
+Claude,Reviews of CRM software providers,CloudShift Pro,True,4.0,0.8,0.87,2025-07-16 12:22:48.135250
+Claude,Reviews of CRM software providers,AI Insights Corp,False,,,,2025-05-22 12:22:48.135257
+Claude,Reviews of CRM software providers,DigitalEdge Systems,False,,,,2025-05-09 12:22:48.135261
+Claude,Affordable CRM software solutions,TechFlow Solutions,False,,,,2025-07-11 12:22:48.135265
+Claude,Affordable CRM software solutions,DataVise Analytics,False,,,,2025-07-23 12:22:48.135268
+Claude,Affordable CRM software solutions,CloudShift Pro,False,,,,2025-05-24 12:22:48.135271
+Claude,Affordable CRM software solutions,AI Insights Corp,False,,,,2025-08-03 12:22:48.135273
+Claude,Affordable CRM software solutions,DigitalEdge Systems,True,3.0,-0.98,0.95,2025-07-30 12:22:48.135280
+Claude,Best CRM software for startups,TechFlow Solutions,False,,,,2025-06-30 12:22:48.135283
+Claude,Best CRM software for startups,DataVise Analytics,True,3.0,-0.56,0.68,2025-07-04 12:22:48.135289
+Claude,Best CRM software for startups,CloudShift Pro,False,,,,2025-05-13 12:22:48.135296
+Claude,Best CRM software for startups,AI Insights Corp,True,1.0,0.81,0.86,2025-06-27 12:22:48.135302
+Claude,Best CRM software for startups,DigitalEdge Systems,True,3.0,0.46,0.64,2025-06-29 12:22:48.135308
+Claude,CRM software pricing comparison,TechFlow Solutions,False,,,,2025-07-11 12:22:48.135311
+Claude,CRM software pricing comparison,DataVise Analytics,False,,,,2025-06-20 12:22:48.135313
+Claude,CRM software pricing comparison,CloudShift Pro,False,,,,2025-07-15 12:22:48.135317
+Claude,CRM software pricing comparison,AI Insights Corp,False,,,,2025-06-05 12:22:48.135320
+Claude,CRM software pricing comparison,DigitalEdge Systems,True,3.0,0.61,0.79,2025-07-27 12:22:48.135325
+Claude,Implementation guide for CRM software,TechFlow Solutions,False,,,,2025-05-11 12:22:48.135327
+Claude,Implementation guide for CRM software,DataVise Analytics,False,,,,2025-05-26 12:22:48.135330
+Claude,Implementation guide for CRM software,CloudShift Pro,False,,,,2025-08-04 12:22:48.135333
+Claude,Implementation guide for CRM software,AI Insights Corp,True,3.0,0.35,0.87,2025-05-23 12:22:48.135338
+Claude,Implementation guide for CRM software,DigitalEdge Systems,False,,,,2025-06-19 12:22:48.135341
+Claude,ROI of CRM software investment,TechFlow Solutions,False,,,,2025-08-02 12:22:48.135343
+Claude,ROI of CRM software investment,DataVise Analytics,False,,,,2025-06-25 12:22:48.135346
+Claude,ROI of CRM software investment,CloudShift Pro,True,1.0,0.27,0.79,2025-05-08 12:22:48.135352
+Claude,ROI of CRM software investment,AI Insights Corp,False,,,,2025-07-19 12:22:48.135355
+Claude,ROI of CRM software investment,DigitalEdge Systems,True,4.0,-0.77,0.69,2025-05-29 12:22:48.135360
+Claude,What is the best data analytics platform for small business?,TechFlow Solutions,False,,,,2025-05-12 12:22:48.135363
+Claude,What is the best data analytics platform for small business?,DataVise Analytics,True,5.0,-0.16,0.9,2025-07-17 12:22:48.135372
+Claude,What is the best data analytics platform for small business?,CloudShift Pro,True,4.0,0.23,0.98,2025-07-01 12:22:48.135377
+Claude,What is the best data analytics platform for small business?,AI Insights Corp,False,,,,2025-06-10 12:22:48.135380
+Claude,What is the best data analytics platform for small business?,DigitalEdge Systems,True,3.0,-0.8,0.87,2025-05-28 12:22:48.135385
+Claude,Top data analytics platform for enterprise companies,TechFlow Solutions,True,1.0,-0.2,0.68,2025-07-21 12:22:48.135390
+Claude,Top data analytics platform for enterprise companies,DataVise Analytics,False,,,,2025-07-25 12:22:48.135393
+Claude,Top data analytics platform for enterprise companies,CloudShift Pro,False,,,,2025-05-21 12:22:48.135395
+Claude,Top data analytics platform for enterprise companies,AI Insights Corp,True,3.0,-0.51,0.65,2025-05-25 12:22:48.135400
+Claude,Top data analytics platform for enterprise companies,DigitalEdge Systems,False,,,,2025-05-27 12:22:48.135403
+Claude,How to choose data analytics platform for my company?,TechFlow Solutions,True,2.0,-0.34,0.66,2025-05-21 12:22:48.135408
+Claude,How to choose data analytics platform for my company?,DataVise Analytics,False,,,,2025-07-18 12:22:48.135411
+Claude,How to choose data analytics platform for my company?,CloudShift Pro,True,2.0,-0.78,0.95,2025-07-20 12:22:48.135416
+Claude,How to choose data analytics platform for my company?,AI Insights Corp,False,,,,2025-07-06 12:22:48.135423
+Claude,How to choose data analytics platform for my company?,DigitalEdge Systems,True,3.0,-0.9,0.9,2025-05-30 12:22:48.135429
+Claude,Compare data analytics platform options,TechFlow Solutions,True,4.0,0.56,0.81,2025-07-23 12:22:48.135434
+Claude,Compare data analytics platform options,DataVise Analytics,True,5.0,-0.91,0.91,2025-05-13 12:22:48.135439
+Claude,Compare data analytics platform options,CloudShift Pro,True,1.0,-0.88,0.79,2025-06-15 12:22:48.135444
+Claude,Compare data analytics platform options,AI Insights Corp,True,4.0,-0.85,0.63,2025-05-20 12:22:48.135449
+Claude,Compare data analytics platform options,DigitalEdge Systems,True,5.0,0.27,0.82,2025-06-25 12:22:48.135454
+Claude,Reviews of data analytics platform providers,TechFlow Solutions,False,,,,2025-06-29 12:22:48.135457
+Claude,Reviews of data analytics platform providers,DataVise Analytics,False,,,,2025-07-24 12:22:48.135463
+Claude,Reviews of data analytics platform providers,CloudShift Pro,True,5.0,0.44,0.69,2025-06-09 12:22:48.135468
+Claude,Reviews of data analytics platform providers,AI Insights Corp,True,4.0,-0.2,0.89,2025-06-26 12:22:48.135474
+Claude,Reviews of data analytics platform providers,DigitalEdge Systems,False,,,,2025-06-19 12:22:48.135476
+Claude,Affordable data analytics platform solutions,TechFlow Solutions,True,4.0,-0.87,0.93,2025-07-25 12:22:48.135481
+Claude,Affordable data analytics platform solutions,DataVise Analytics,False,,,,2025-06-19 12:22:48.135484
+Claude,Affordable data analytics platform solutions,CloudShift Pro,True,5.0,0.91,0.82,2025-05-12 12:22:48.135489
+Claude,Affordable data analytics platform solutions,AI Insights Corp,False,,,,2025-05-12 12:22:48.135491
+Claude,Affordable data analytics platform solutions,DigitalEdge Systems,True,1.0,0.94,0.84,2025-06-21 12:22:48.135496
+Claude,Best data analytics platform for startups,TechFlow Solutions,False,,,,2025-07-17 12:22:48.135499
+Claude,Best data analytics platform for startups,DataVise Analytics,True,1.0,-0.3,0.82,2025-07-22 12:22:48.135504
+Claude,Best data analytics platform for startups,CloudShift Pro,True,4.0,0.69,0.99,2025-05-18 12:22:48.135509
+Claude,Best data analytics platform for startups,AI Insights Corp,False,,,,2025-08-02 12:22:48.135512
+Claude,Best data analytics platform for startups,DigitalEdge Systems,False,,,,2025-05-09 12:22:48.135515
+Claude,data analytics platform pricing comparison,TechFlow Solutions,True,3.0,0.84,0.74,2025-07-13 12:22:48.135520
+Claude,data analytics platform pricing comparison,DataVise Analytics,True,4.0,-0.86,0.9,2025-08-02 12:22:48.135525
+Claude,data analytics platform pricing comparison,CloudShift Pro,False,,,,2025-06-18 12:22:48.135528
+Claude,data analytics platform pricing comparison,AI Insights Corp,True,3.0,-0.38,0.73,2025-05-25 12:22:48.135533
+Claude,data analytics platform pricing comparison,DigitalEdge Systems,False,,,,2025-07-17 12:22:48.135535
+Claude,Implementation guide for data analytics platform,TechFlow Solutions,False,,,,2025-05-11 12:22:48.135544
+Claude,Implementation guide for data analytics platform,DataVise Analytics,False,,,,2025-06-12 12:22:48.135547
+Claude,Implementation guide for data analytics platform,CloudShift Pro,False,,,,2025-07-02 12:22:48.135549
+Claude,Implementation guide for data analytics platform,AI Insights Corp,False,,,,2025-06-22 12:22:48.135552
+Claude,Implementation guide for data analytics platform,DigitalEdge Systems,True,5.0,-0.03,0.87,2025-07-31 12:22:48.135557
+Claude,ROI of data analytics platform investment,TechFlow Solutions,False,,,,2025-07-29 12:22:48.135560
+Claude,ROI of data analytics platform investment,DataVise Analytics,False,,,,2025-07-09 12:22:48.135563
+Claude,ROI of data analytics platform investment,CloudShift Pro,False,,,,2025-06-29 12:22:48.135565
+Claude,ROI of data analytics platform investment,AI Insights Corp,True,4.0,-0.65,0.75,2025-05-07 12:22:48.135570
+Claude,ROI of data analytics platform investment,DigitalEdge Systems,False,,,,2025-05-12 12:22:48.135573
+Gemini,What is the best CRM software for small business?,TechFlow Solutions,True,1.0,-0.13,0.78,2025-07-27 12:22:48.135579
+Gemini,What is the best CRM software for small business?,DataVise Analytics,True,5.0,-0.19,0.86,2025-06-29 12:22:48.135584
+Gemini,What is the best CRM software for small business?,CloudShift Pro,True,3.0,-0.66,0.98,2025-06-08 12:22:48.135590
+Gemini,What is the best CRM software for small business?,AI Insights Corp,False,,,,2025-07-25 12:22:48.135592
+Gemini,What is the best CRM software for small business?,DigitalEdge Systems,True,4.0,0.18,0.81,2025-06-16 12:22:48.135597
+Gemini,Top CRM software for enterprise companies,TechFlow Solutions,False,,,,2025-07-08 12:22:48.135600
+Gemini,Top CRM software for enterprise companies,DataVise Analytics,True,5.0,0.27,0.81,2025-07-12 12:22:48.135605
+Gemini,Top CRM software for enterprise companies,CloudShift Pro,True,2.0,-0.53,0.66,2025-07-11 12:22:48.135610
+Gemini,Top CRM software for enterprise companies,AI Insights Corp,True,1.0,-0.65,0.91,2025-06-03 12:22:48.135615
+Gemini,Top CRM software for enterprise companies,DigitalEdge Systems,False,,,,2025-05-23 12:22:48.135620
+Gemini,How to choose CRM software for my company?,TechFlow Solutions,False,,,,2025-05-25 12:22:48.135626
+Gemini,How to choose CRM software for my company?,DataVise Analytics,False,,,,2025-06-25 12:22:48.135629
+Gemini,How to choose CRM software for my company?,CloudShift Pro,True,2.0,-0.12,0.79,2025-05-17 12:22:48.135634
+Gemini,How to choose CRM software for my company?,AI Insights Corp,True,1.0,-0.3,0.63,2025-06-07 12:22:48.135639
+Gemini,How to choose CRM software for my company?,DigitalEdge Systems,True,3.0,-0.85,0.95,2025-07-25 12:22:48.135644
+Gemini,Compare CRM software options,TechFlow Solutions,True,4.0,0.16,0.98,2025-07-31 12:22:48.135650
+Gemini,Compare CRM software options,DataVise Analytics,False,,,,2025-05-14 12:22:48.135653
+Gemini,Compare CRM software options,CloudShift Pro,False,,,,2025-06-02 12:22:48.135656
+Gemini,Compare CRM software options,AI Insights Corp,True,1.0,0.62,0.93,2025-07-26 12:22:48.135661
+Gemini,Compare CRM software options,DigitalEdge Systems,True,2.0,0.42,1.0,2025-05-30 12:22:48.135666
+Gemini,Reviews of CRM software providers,TechFlow Solutions,True,3.0,0.84,0.75,2025-06-23 12:22:48.135671
+Gemini,Reviews of CRM software providers,DataVise Analytics,True,3.0,-0.87,0.64,2025-05-11 12:22:48.135677
+Gemini,Reviews of CRM software providers,CloudShift Pro,True,5.0,0.75,0.73,2025-05-23 12:22:48.135682
+Gemini,Reviews of CRM software providers,AI Insights Corp,False,,,,2025-06-27 12:22:48.135685
+Gemini,Reviews of CRM software providers,DigitalEdge Systems,True,4.0,-0.74,0.88,2025-07-26 12:22:48.135690
+Gemini,Affordable CRM software solutions,TechFlow Solutions,False,,,,2025-06-24 12:22:48.135693
+Gemini,Affordable CRM software solutions,DataVise Analytics,False,,,,2025-05-10 12:22:48.135696
+Gemini,Affordable CRM software solutions,CloudShift Pro,True,4.0,0.02,0.61,2025-06-27 12:22:48.135705
+Gemini,Affordable CRM software solutions,AI Insights Corp,True,4.0,-0.62,1.0,2025-07-17 12:22:48.135711
+Gemini,Affordable CRM software solutions,DigitalEdge Systems,False,,,,2025-07-24 12:22:48.135717
+Gemini,Best CRM software for startups,TechFlow Solutions,False,,,,2025-05-30 12:22:48.135720
+Gemini,Best CRM software for startups,DataVise Analytics,False,,,,2025-05-18 12:22:48.135723
+Gemini,Best CRM software for startups,CloudShift Pro,False,,,,2025-07-16 12:22:48.135726
+Gemini,Best CRM software for startups,AI Insights Corp,False,,,,2025-05-18 12:22:48.135729
+Gemini,Best CRM software for startups,DigitalEdge Systems,True,4.0,-0.91,0.75,2025-07-06 12:22:48.135734
+Gemini,CRM software pricing comparison,TechFlow Solutions,True,4.0,-0.53,0.7,2025-06-06 12:22:48.135740
+Gemini,CRM software pricing comparison,DataVise Analytics,True,5.0,0.97,0.78,2025-06-30 12:22:48.135745
+Gemini,CRM software pricing comparison,CloudShift Pro,True,4.0,0.93,0.93,2025-05-20 12:22:48.135750
+Gemini,CRM software pricing comparison,AI Insights Corp,False,,,,2025-05-15 12:22:48.135753
+Gemini,CRM software pricing comparison,DigitalEdge Systems,True,1.0,0.42,0.81,2025-07-21 12:22:48.135758
+Gemini,Implementation guide for CRM software,TechFlow Solutions,False,,,,2025-07-02 12:22:48.135761
+Gemini,Implementation guide for CRM software,DataVise Analytics,False,,,,2025-06-11 12:22:48.135764
+Gemini,Implementation guide for CRM software,CloudShift Pro,False,,,,2025-06-09 12:22:48.135767
+Gemini,Implementation guide for CRM software,AI Insights Corp,False,,,,2025-06-13 12:22:48.135771
+Gemini,Implementation guide for CRM software,DigitalEdge Systems,False,,,,2025-07-06 12:22:48.135773
+Gemini,ROI of CRM software investment,TechFlow Solutions,True,2.0,-0.94,0.97,2025-05-14 12:22:48.135778
+Gemini,ROI of CRM software investment,DataVise Analytics,True,1.0,-0.43,0.93,2025-05-08 12:22:48.135784
+Gemini,ROI of CRM software investment,CloudShift Pro,False,,,,2025-06-06 12:22:48.135787
+Gemini,ROI of CRM software investment,AI Insights Corp,True,1.0,-0.96,0.69,2025-07-17 12:22:48.135791
+Gemini,ROI of CRM software investment,DigitalEdge Systems,False,,,,2025-05-30 12:22:48.135798
+Gemini,What is the best data analytics platform for small business?,TechFlow Solutions,False,,,,2025-07-06 12:22:48.135801
+Gemini,What is the best data analytics platform for small business?,DataVise Analytics,True,4.0,0.28,0.85,2025-07-28 12:22:48.135806
+Gemini,What is the best data analytics platform for small business?,CloudShift Pro,False,,,,2025-05-21 12:22:48.135808
+Gemini,What is the best data analytics platform for small business?,AI Insights Corp,False,,,,2025-05-24 12:22:48.135812
+Gemini,What is the best data analytics platform for small business?,DigitalEdge Systems,True,4.0,-1.0,0.74,2025-05-24 12:22:48.135817
+Gemini,Top data analytics platform for enterprise companies,TechFlow Solutions,False,,,,2025-07-26 12:22:48.135820
+Gemini,Top data analytics platform for enterprise companies,DataVise Analytics,True,5.0,0.09,0.91,2025-06-02 12:22:48.135825
+Gemini,Top data analytics platform for enterprise companies,CloudShift Pro,True,4.0,-0.91,0.75,2025-06-19 12:22:48.135830
+Gemini,Top data analytics platform for enterprise companies,AI Insights Corp,True,1.0,-0.31,0.89,2025-05-17 12:22:48.135835
+Gemini,Top data analytics platform for enterprise companies,DigitalEdge Systems,False,,,,2025-06-24 12:22:48.135838
+Gemini,How to choose data analytics platform for my company?,TechFlow Solutions,False,,,,2025-06-23 12:22:48.135841
+Gemini,How to choose data analytics platform for my company?,DataVise Analytics,True,4.0,0.96,0.79,2025-07-13 12:22:48.135846
+Gemini,How to choose data analytics platform for my company?,CloudShift Pro,True,4.0,-0.93,0.68,2025-07-11 12:22:48.135851
+Gemini,How to choose data analytics platform for my company?,AI Insights Corp,True,3.0,0.03,1.0,2025-05-28 12:22:48.135856
+Gemini,How to choose data analytics platform for my company?,DigitalEdge Systems,True,2.0,-0.43,0.94,2025-07-30 12:22:48.135861
+Gemini,Compare data analytics platform options,TechFlow Solutions,True,1.0,0.6,0.77,2025-06-15 12:22:48.135867
+Gemini,Compare data analytics platform options,DataVise Analytics,False,,,,2025-06-17 12:22:48.135870
+Gemini,Compare data analytics platform options,CloudShift Pro,True,4.0,-0.27,0.92,2025-07-02 12:22:48.135875
+Gemini,Compare data analytics platform options,AI Insights Corp,False,,,,2025-07-26 12:22:48.135881
+Gemini,Compare data analytics platform options,DigitalEdge Systems,False,,,,2025-07-13 12:22:48.135884
+Gemini,Reviews of data analytics platform providers,TechFlow Solutions,True,1.0,-0.34,0.72,2025-06-09 12:22:48.135889
+Gemini,Reviews of data analytics platform providers,DataVise Analytics,True,4.0,-0.3,0.62,2025-06-21 12:22:48.135895
+Gemini,Reviews of data analytics platform providers,CloudShift Pro,True,1.0,-0.85,0.86,2025-06-20 12:22:48.135900
+Gemini,Reviews of data analytics platform providers,AI Insights Corp,False,,,,2025-07-16 12:22:48.135903
+Gemini,Reviews of data analytics platform providers,DigitalEdge Systems,True,5.0,0.36,0.78,2025-07-20 12:22:48.135908
+Gemini,Affordable data analytics platform solutions,TechFlow Solutions,False,,,,2025-06-20 12:22:48.135911
+Gemini,Affordable data analytics platform solutions,DataVise Analytics,False,,,,2025-08-01 12:22:48.135913
+Gemini,Affordable data analytics platform solutions,CloudShift Pro,False,,,,2025-06-19 12:22:48.135916
+Gemini,Affordable data analytics platform solutions,AI Insights Corp,False,,,,2025-05-24 12:22:48.135919
+Gemini,Affordable data analytics platform solutions,DigitalEdge Systems,False,,,,2025-06-26 12:22:48.135921
+Gemini,Best data analytics platform for startups,TechFlow Solutions,True,1.0,-0.95,0.67,2025-05-31 12:22:48.135926
+Gemini,Best data analytics platform for startups,DataVise Analytics,False,,,,2025-07-03 12:22:48.135929
+Gemini,Best data analytics platform for startups,CloudShift Pro,False,,,,2025-07-09 12:22:48.135932
+Gemini,Best data analytics platform for startups,AI Insights Corp,True,4.0,-0.6,0.65,2025-07-27 12:22:48.135937
+Gemini,Best data analytics platform for startups,DigitalEdge Systems,False,,,,2025-06-10 12:22:48.135940
+Gemini,data analytics platform pricing comparison,TechFlow Solutions,False,,,,2025-06-26 12:22:48.135943
+Gemini,data analytics platform pricing comparison,DataVise Analytics,False,,,,2025-05-27 12:22:48.135946
+Gemini,data analytics platform pricing comparison,CloudShift Pro,False,,,,2025-07-16 12:22:48.135948
+Gemini,data analytics platform pricing comparison,AI Insights Corp,False,,,,2025-05-16 12:22:48.135955
+Gemini,data analytics platform pricing comparison,DigitalEdge Systems,False,,,,2025-07-08 12:22:48.135958
+Gemini,Implementation guide for data analytics platform,TechFlow Solutions,False,,,,2025-07-19 12:22:48.135961
+Gemini,Implementation guide for data analytics platform,DataVise Analytics,False,,,,2025-06-20 12:22:48.135967
+Gemini,Implementation guide for data analytics platform,CloudShift Pro,True,5.0,-0.74,0.95,2025-07-28 12:22:48.135974
+Gemini,Implementation guide for data analytics platform,AI Insights Corp,False,,,,2025-06-05 12:22:48.135976
+Gemini,Implementation guide for data analytics platform,DigitalEdge Systems,False,,,,2025-05-24 12:22:48.135979
+Gemini,ROI of data analytics platform investment,TechFlow Solutions,False,,,,2025-05-15 12:22:48.135982
+Gemini,ROI of data analytics platform investment,DataVise Analytics,False,,,,2025-05-31 12:22:48.135985
+Gemini,ROI of data analytics platform investment,CloudShift Pro,False,,,,2025-05-27 12:22:48.135987
+Gemini,ROI of data analytics platform investment,AI Insights Corp,True,2.0,-0.13,0.96,2025-07-29 12:22:48.135993
+Gemini,ROI of data analytics platform investment,DigitalEdge Systems,True,3.0,-0.67,0.73,2025-05-07 12:22:48.135998
+Copilot,What is the best CRM software for small business?,TechFlow Solutions,False,,,,2025-05-31 12:22:48.136002
+Copilot,What is the best CRM software for small business?,DataVise Analytics,False,,,,2025-07-04 12:22:48.136005
+Copilot,What is the best CRM software for small business?,CloudShift Pro,False,,,,2025-07-01 12:22:48.136007
+Copilot,What is the best CRM software for small business?,AI Insights Corp,False,,,,2025-05-29 12:22:48.136010
+Copilot,What is the best CRM software for small business?,DigitalEdge Systems,False,,,,2025-05-22 12:22:48.136013
+Copilot,Top CRM software for enterprise companies,TechFlow Solutions,True,5.0,0.44,0.84,2025-05-25 12:22:48.136018
+Copilot,Top CRM software for enterprise companies,DataVise Analytics,False,,,,2025-07-26 12:22:48.136021
+Copilot,Top CRM software for enterprise companies,CloudShift Pro,False,,,,2025-05-24 12:22:48.136027
+Copilot,Top CRM software for enterprise companies,AI Insights Corp,True,5.0,-0.17,0.86,2025-06-03 12:22:48.136033
+Copilot,Top CRM software for enterprise companies,DigitalEdge Systems,True,3.0,-0.03,0.92,2025-05-10 12:22:48.136038
+Copilot,How to choose CRM software for my company?,TechFlow Solutions,False,,,,2025-05-09 12:22:48.136041
+Copilot,How to choose CRM software for my company?,DataVise Analytics,False,,,,2025-06-05 12:22:48.136044
+Copilot,How to choose CRM software for my company?,CloudShift Pro,True,2.0,-0.37,0.89,2025-06-22 12:22:48.136049
+Copilot,How to choose CRM software for my company?,AI Insights Corp,True,3.0,0.03,0.64,2025-07-06 12:22:48.136054
+Copilot,How to choose CRM software for my company?,DigitalEdge Systems,True,2.0,-0.72,0.62,2025-06-17 12:22:48.136060
+Copilot,Compare CRM software options,TechFlow Solutions,True,2.0,0.63,0.97,2025-06-26 12:22:48.136065
+Copilot,Compare CRM software options,DataVise Analytics,True,5.0,-0.07,0.95,2025-06-03 12:22:48.136071
+Copilot,Compare CRM software options,CloudShift Pro,False,,,,2025-06-02 12:22:48.136073
+Copilot,Compare CRM software options,AI Insights Corp,True,5.0,-0.29,0.62,2025-06-03 12:22:48.136079
+Copilot,Compare CRM software options,DigitalEdge Systems,False,,,,2025-05-11 12:22:48.136081
+Copilot,Reviews of CRM software providers,TechFlow Solutions,False,,,,2025-07-23 12:22:48.136084
+Copilot,Reviews of CRM software providers,DataVise Analytics,False,,,,2025-06-20 12:22:48.136087
+Copilot,Reviews of CRM software providers,CloudShift Pro,True,4.0,-0.9,0.82,2025-06-20 12:22:48.136093
+Copilot,Reviews of CRM software providers,AI Insights Corp,True,5.0,-0.1,0.82,2025-05-18 12:22:48.136098
+Copilot,Reviews of CRM software providers,DigitalEdge Systems,True,1.0,-0.21,0.92,2025-06-23 12:22:48.136103
+Copilot,Affordable CRM software solutions,TechFlow Solutions,True,2.0,-0.6,0.8,2025-06-02 12:22:48.136109
+Copilot,Affordable CRM software solutions,DataVise Analytics,True,3.0,0.61,0.81,2025-07-17 12:22:48.136114
+Copilot,Affordable CRM software solutions,CloudShift Pro,True,3.0,0.86,0.73,2025-06-16 12:22:48.136123
+Copilot,Affordable CRM software solutions,AI Insights Corp,True,3.0,0.19,0.8,2025-06-01 12:22:48.136128
+Copilot,Affordable CRM software solutions,DigitalEdge Systems,False,,,,2025-06-28 12:22:48.136131
+Copilot,Best CRM software for startups,TechFlow Solutions,True,3.0,0.35,0.99,2025-05-23 12:22:48.136136
+Copilot,Best CRM software for startups,DataVise Analytics,False,,,,2025-05-09 12:22:48.136139
+Copilot,Best CRM software for startups,CloudShift Pro,False,,,,2025-07-03 12:22:48.136141
+Copilot,Best CRM software for startups,AI Insights Corp,False,,,,2025-05-23 12:22:48.136144
+Copilot,Best CRM software for startups,DigitalEdge Systems,False,,,,2025-05-23 12:22:48.136147
+Copilot,CRM software pricing comparison,TechFlow Solutions,False,,,,2025-05-18 12:22:48.136150
+Copilot,CRM software pricing comparison,DataVise Analytics,True,2.0,-0.94,0.98,2025-07-22 12:22:48.136156
+Copilot,CRM software pricing comparison,CloudShift Pro,False,,,,2025-06-13 12:22:48.136158
+Copilot,CRM software pricing comparison,AI Insights Corp,False,,,,2025-06-14 12:22:48.136161
+Copilot,CRM software pricing comparison,DigitalEdge Systems,False,,,,2025-06-06 12:22:48.136164
+Copilot,Implementation guide for CRM software,TechFlow Solutions,False,,,,2025-07-29 12:22:48.136166
+Copilot,Implementation guide for CRM software,DataVise Analytics,True,5.0,-0.35,0.86,2025-05-30 12:22:48.136172
+Copilot,Implementation guide for CRM software,CloudShift Pro,False,,,,2025-06-08 12:22:48.136175
+Copilot,Implementation guide for CRM software,AI Insights Corp,True,3.0,0.35,0.95,2025-05-10 12:22:48.136180
+Copilot,Implementation guide for CRM software,DigitalEdge Systems,False,,,,2025-05-19 12:22:48.136182
+Copilot,ROI of CRM software investment,TechFlow Solutions,False,,,,2025-07-01 12:22:48.136191
+Copilot,ROI of CRM software investment,DataVise Analytics,True,3.0,0.54,0.88,2025-05-09 12:22:48.136200
+Copilot,ROI of CRM software investment,CloudShift Pro,True,3.0,0.12,0.97,2025-07-01 12:22:48.136206
+Copilot,ROI of CRM software investment,AI Insights Corp,False,,,,2025-05-28 12:22:48.136208
+Copilot,ROI of CRM software investment,DigitalEdge Systems,False,,,,2025-06-22 12:22:48.136211
+Copilot,What is the best data analytics platform for small business?,TechFlow Solutions,False,,,,2025-06-29 12:22:48.136214
+Copilot,What is the best data analytics platform for small business?,DataVise Analytics,False,,,,2025-07-26 12:22:48.136217
+Copilot,What is the best data analytics platform for small business?,CloudShift Pro,False,,,,2025-07-04 12:22:48.136241
+Copilot,What is the best data analytics platform for small business?,AI Insights Corp,True,5.0,-0.46,0.82,2025-07-02 12:22:48.136255
+Copilot,What is the best data analytics platform for small business?,DigitalEdge Systems,False,,,,2025-05-22 12:22:48.136260
+Copilot,Top data analytics platform for enterprise companies,TechFlow Solutions,True,5.0,-0.55,0.69,2025-07-24 12:22:48.136273
+Copilot,Top data analytics platform for enterprise companies,DataVise Analytics,False,,,,2025-07-24 12:22:48.136277
+Copilot,Top data analytics platform for enterprise companies,CloudShift Pro,True,5.0,0.96,0.66,2025-05-14 12:22:48.136283
+Copilot,Top data analytics platform for enterprise companies,AI Insights Corp,False,,,,2025-06-05 12:22:48.136286
+Copilot,Top data analytics platform for enterprise companies,DigitalEdge Systems,False,,,,2025-06-30 12:22:48.136289
+Copilot,How to choose data analytics platform for my company?,TechFlow Solutions,False,,,,2025-07-25 12:22:48.136292
+Copilot,How to choose data analytics platform for my company?,DataVise Analytics,True,1.0,0.83,0.67,2025-07-14 12:22:48.136298
+Copilot,How to choose data analytics platform for my company?,CloudShift Pro,True,4.0,0.58,0.67,2025-06-29 12:22:48.136303
+Copilot,How to choose data analytics platform for my company?,AI Insights Corp,True,5.0,0.21,0.97,2025-06-24 12:22:48.136309
+Copilot,How to choose data analytics platform for my company?,DigitalEdge Systems,False,,,,2025-05-28 12:22:48.136312
+Copilot,Compare data analytics platform options,TechFlow Solutions,False,,,,2025-07-19 12:22:48.136316
+Copilot,Compare data analytics platform options,DataVise Analytics,True,2.0,0.62,0.73,2025-06-08 12:22:48.136325
+Copilot,Compare data analytics platform options,CloudShift Pro,False,,,,2025-08-04 12:22:48.136328
+Copilot,Compare data analytics platform options,AI Insights Corp,False,,,,2025-05-25 12:22:48.136330
+Copilot,Compare data analytics platform options,DigitalEdge Systems,True,5.0,0.71,0.96,2025-06-12 12:22:48.136336
+Copilot,Reviews of data analytics platform providers,TechFlow Solutions,True,1.0,-0.63,0.66,2025-06-25 12:22:48.136342
+Copilot,Reviews of data analytics platform providers,DataVise Analytics,True,4.0,-0.53,0.9,2025-06-24 12:22:48.136348
+Copilot,Reviews of data analytics platform providers,CloudShift Pro,False,,,,2025-08-04 12:22:48.136351
+Copilot,Reviews of data analytics platform providers,AI Insights Corp,False,,,,2025-07-06 12:22:48.136354
+Copilot,Reviews of data analytics platform providers,DigitalEdge Systems,True,3.0,-0.68,0.87,2025-05-07 12:22:48.136359
+Copilot,Affordable data analytics platform solutions,TechFlow Solutions,False,,,,2025-05-16 12:22:48.136362
+Copilot,Affordable data analytics platform solutions,DataVise Analytics,True,5.0,-0.56,0.98,2025-06-05 12:22:48.136368
+Copilot,Affordable data analytics platform solutions,CloudShift Pro,False,,,,2025-05-20 12:22:48.136371
+Copilot,Affordable data analytics platform solutions,AI Insights Corp,False,,,,2025-06-06 12:22:48.136374
+Copilot,Affordable data analytics platform solutions,DigitalEdge Systems,False,,,,2025-07-09 12:22:48.136377
+Copilot,Best data analytics platform for startups,TechFlow Solutions,False,,,,2025-05-21 12:22:48.136380
+Copilot,Best data analytics platform for startups,DataVise Analytics,True,4.0,0.06,0.74,2025-05-25 12:22:48.136386
+Copilot,Best data analytics platform for startups,CloudShift Pro,False,,,,2025-06-02 12:22:48.136388
+Copilot,Best data analytics platform for startups,AI Insights Corp,False,,,,2025-07-15 12:22:48.136391
+Copilot,Best data analytics platform for startups,DigitalEdge Systems,False,,,,2025-07-22 12:22:48.136394
+Copilot,data analytics platform pricing comparison,TechFlow Solutions,False,,,,2025-06-04 12:22:48.136401
+Copilot,data analytics platform pricing comparison,DataVise Analytics,False,,,,2025-07-29 12:22:48.136404
+Copilot,data analytics platform pricing comparison,CloudShift Pro,False,,,,2025-06-08 12:22:48.136407
+Copilot,data analytics platform pricing comparison,AI Insights Corp,False,,,,2025-05-11 12:22:48.136410
+Copilot,data analytics platform pricing comparison,DigitalEdge Systems,False,,,,2025-06-16 12:22:48.136412
+Copilot,Implementation guide for data analytics platform,TechFlow Solutions,True,2.0,0.16,0.62,2025-06-22 12:22:48.136418
+Copilot,Implementation guide for data analytics platform,DataVise Analytics,True,1.0,0.87,0.63,2025-06-06 12:22:48.136423
+Copilot,Implementation guide for data analytics platform,CloudShift Pro,False,,,,2025-07-19 12:22:48.136426
+Copilot,Implementation guide for data analytics platform,AI Insights Corp,False,,,,2025-05-15 12:22:48.136429
+Copilot,Implementation guide for data analytics platform,DigitalEdge Systems,True,4.0,-0.1,0.97,2025-06-18 12:22:48.136434
+Copilot,ROI of data analytics platform investment,TechFlow Solutions,False,,,,2025-05-13 12:22:48.136437
+Copilot,ROI of data analytics platform investment,DataVise Analytics,True,3.0,-0.76,1.0,2025-06-16 12:22:48.136443
+Copilot,ROI of data analytics platform investment,CloudShift Pro,False,,,,2025-07-08 12:22:48.136446
+Copilot,ROI of data analytics platform investment,AI Insights Corp,False,,,,2025-06-28 12:22:48.136448
+Copilot,ROI of data analytics platform investment,DigitalEdge Systems,False,,,,2025-06-12 12:22:48.136451

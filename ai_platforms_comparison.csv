@@ -1,0 +1,6 @@
+Platform,Monthly_Users_Millions,Brand_Recommendation_Frequency,Content_Depth_Preference,Citation_Likelihood,SEO_Factor_Weight,Brand_Authority_Weight
+ChatGPT,180,85,88,75,30,70
+Perplexity,75,92,95,95,25,75
+Google Gemini,120,78,82,70,45,55
+Claude,45,82,90,80,35,65
+Bing Copilot,90,80,85,78,40,60

@@ -1,0 +1,13 @@
+source_type,citation_frequency,avg_sentiment,influence_score,content_freshness_days
+Industry Publications,26,0.6,0.42,19
+Reddit Discussions,11,0.7,0.69,172
+Quora Answers,22,0.41,0.5,86
+News Articles,14,0.78,0.41,49
+Company Blogs,35,0.67,0.77,123
+Review Sites,34,0.42,0.7,53
+LinkedIn Articles,17,0.76,0.68,73
+YouTube Videos,17,0.53,0.72,79
+Podcast Transcripts,13,0.48,0.84,120
+Academic Papers,8,0.7,0.76,82
+Case Studies,34,0.4,0.56,12
+White Papers,23,0.73,0.77,5

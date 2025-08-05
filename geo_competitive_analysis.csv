@@ -1,0 +1,11 @@
+brand,brand_type,visibility_score,sentiment_score,citation_frequency,avg_response_position,market_share_mentions
+TechFlow Solutions,Client,80.9,0.71,12,1.3,12.6
+DataVise Analytics,Client,60.0,0.86,6,2.1,3.1
+CloudShift Pro,Client,58.6,0.51,8,2.1,2.7
+AI Insights Corp,Client,48.5,0.58,8,1.7,17.9
+DigitalEdge Systems,Client,35.2,0.84,41,2.3,11.6
+Microsoft,Competitor,63.7,0.42,24,4.4,17.8
+Salesforce,Competitor,53.9,0.49,22,1.4,17.2
+HubSpot,Competitor,77.2,0.84,45,3.6,10.9
+Oracle,Competitor,23.0,0.44,29,4.0,7.1
+Adobe,Competitor,47.1,0.3,29,1.9,10.6

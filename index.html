@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GEO Strategy Proof of Concept - Executive Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="dashboard">
+        <!-- Header Section -->
+        <header class="dashboard-header">
+            <div class="header-content">
+                <div class="logo-section">
+                    <div class="logo-placeholder">
+                        <i class="fas fa-chart-line"></i>
+                    </div>
+                    <div class="header-text">
+                        <h1>GEO Strategy Proof of Concept</h1>
+                        <p class="subtitle">Generative Engine Optimization for Executive Leadership</p>
+                    </div>
+                </div>
+                <div class="export-actions">
+                    <button class="btn btn--outline btn--sm">
+                        <i class="fas fa-download"></i> Export Report
+                    </button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Executive Summary Cards -->
+        <section class="summary-cards">
+            <div class="card-grid">
+                <div class="kpi-card">
+                    <div class="kpi-icon">
+                        <i class="fas fa-search"></i>
+                    </div>
+                    <div class="kpi-content">
+                        <h3>50</h3>
+                        <p>Total Queries Analyzed</p>
+                    </div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-icon">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <div class="kpi-content">
+                        <h3>5</h3>
+                        <p>AI Platforms Monitored</p>
+                    </div>
+                </div>
+                <div class="kpi-card">
+                    <div class="kpi-icon">
+                        <i class="fas fa-eye"></i>
+                    </div>
+                    <div class="kpi-content">
+                        <h3>43%</h3>
+                        <p>Current Avg Visibility Rate</p>
+                        <span class="kpi-trend negative">22% below industry benchmark</span>
+                    </div>
+                </div>
+                <div class="kpi-card highlight">
+                    <div class="kpi-icon">
+                        <i class="fas fa-chart-line"></i>
+                    </div>
+                    <div class="kpi-content">
+                        <h3>340%</h3>
+                        <p>Projected ROI</p>
+                        <span class="kpi-trend positive">6-month payback period</span>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Navigation Tabs -->
+        <nav class="tab-navigation">
+            <button class="tab-btn active" data-tab="executive">Executive Overview</button>
+            <button class="tab-btn" data-tab="visibility">Visibility Analysis</button>
+            <button class="tab-btn" data-tab="competitive">Competitive Intelligence</button>
+            <button class="tab-btn" data-tab="citation">Citation Analysis</button>
+            <button class="tab-btn" data-tab="timeline">Performance Timeline</button>
+            <button class="tab-btn" data-tab="recommendations">Recommendations</button>
+            <button class="tab-btn" data-tab="roi">ROI Calculator</button>
+        </nav>
+
+        <!-- Tab Content -->
+        <main class="tab-content">
+            
+            <!-- Executive Overview Tab -->
+            <div id="executive-tab" class="tab-panel active">
+                <div class="content-grid">
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Current Performance vs Industry Benchmarks</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="benchmark-comparison">
+                                <div class="metric-row">
+                                    <span class="metric-label">Brand Visibility Rate</span>
+                                    <div class="metric-bar">
+                                        <div class="progress-bar">
+                                            <div class="progress-fill current" style="width: 43%"></div>
+                                            <div class="benchmark-line" style="left: 65%"></div>
+                                        </div>
+                                        <span class="metric-values">43% (Industry: 65%)</span>
+                                    </div>
+                                </div>
+                                <div class="metric-row">
+                                    <span class="metric-label">Average Position</span>
+                                    <div class="metric-bar">
+                                        <div class="progress-bar">
+                                            <div class="progress-fill current" style="width: 35%"></div>
+                                            <div class="benchmark-line" style="left: 60%"></div>
+                                        </div>
+                                        <span class="metric-values">2.8 (Industry: 2.1)</span>
+                                    </div>
+                                </div>
+                                <div class="metric-row">
+                                    <span class="metric-label">Citation Frequency</span>
+                                    <div class="metric-bar">
+                                        <div class="progress-bar">
+                                            <div class="progress-fill current" style="width: 28%"></div>
+                                            <div class="benchmark-line" style="left: 70%"></div>
+                                        </div>
+                                        <span class="metric-values">28 (Industry: 45)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>ROI Projection Summary</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="roi-summary">
+                                <div class="roi-scenarios">
+                                    <div class="scenario">
+                                        <h4>Conservative</h4>
+                                        <div class="roi-value">240%</div>
+                                        <div class="roi-details">
+                                            <p>Investment: $25K</p>
+                                            <p>Return: $85K</p>
+                                            <p>Payback: 8 months</p>
+                                        </div>
+                                    </div>
+                                    <div class="scenario featured">
+                                        <h4>Realistic</h4>
+                                        <div class="roi-value">346%</div>
+                                        <div class="roi-details">
+                                            <p>Investment: $28K</p>
+                                            <p>Return: $125K</p>
+                                            <p>Payback: 6 months</p>
+                                        </div>
+                                    </div>
+                                    <div class="scenario">
+                                        <h4>Optimistic</h4>
+                                        <div class="roi-value">463%</div>
+                                        <div class="roi-details">
+                                            <p>Investment: $32K</p>
+                                            <p>Return: $180K</p>
+                                            <p>Payback: 4 months</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Quick Wins - Immediate Opportunities</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="quick-wins">
+                                <div class="win-item">
+                                    <div class="win-icon">
+                                        <i class="fas fa-question-circle"></i>
+                                    </div>
+                                    <div class="win-content">
+                                        <h4>FAQ Optimization</h4>
+                                        <p>Create FAQ-style content for top 20 user queries</p>
+                                        <span class="impact">High Impact • 2 weeks</span>
+                                    </div>
+                                </div>
+                                <div class="win-item">
+                                    <div class="win-icon">
+                                        <i class="fas fa-code"></i>
+                                    </div>
+                                    <div class="win-content">
+                                        <h4>Structured Data</h4>
+                                        <p>Implement schema markup for better AI understanding</p>
+                                        <span class="impact">Medium Impact • 1 week</span>
+                                    </div>
+                                </div>
+                                <div class="win-item">
+                                    <div class="win-icon">
+                                        <i class="fas fa-link"></i>
+                                    </div>
+                                    <div class="win-content">
+                                        <h4>Authority Building</h4>
+                                        <p>Secure backlinks from industry publications</p>
+                                        <span class="impact">High Impact • 4 weeks</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>12-Week Implementation Roadmap</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="roadmap">
+                                <div class="roadmap-phase">
+                                    <div class="phase-header">
+                                        <h4>Phase 1: Foundation (Weeks 1-4)</h4>
+                                        <span class="phase-status">Ready to Start</span>
+                                    </div>
+                                    <ul class="phase-tasks">
+                                        <li>Content audit and gap analysis</li>
+                                        <li>Competitor benchmarking</li>
+                                        <li>FAQ content creation</li>
+                                        <li>Structured data implementation</li>
+                                    </ul>
+                                </div>
+                                <div class="roadmap-phase">
+                                    <div class="phase-header">
+                                        <h4>Phase 2: Optimization (Weeks 5-8)</h4>
+                                        <span class="phase-status">Planned</span>
+                                    </div>
+                                    <ul class="phase-tasks">
+                                        <li>Natural language optimization</li>
+                                        <li>Authority link building</li>
+                                        <li>Persona-specific content</li>
+                                        <li>Performance monitoring setup</li>
+                                    </ul>
+                                </div>
+                                <div class="roadmap-phase">
+                                    <div class="phase-header">
+                                        <h4>Phase 3: Scale & Measure (Weeks 9-12)</h4>
+                                        <span class="phase-status">Future</span>
+                                    </div>
+                                    <ul class="phase-tasks">
+                                        <li>Content scaling across platforms</li>
+                                        <li>Advanced analytics implementation</li>
+                                        <li>ROI measurement and reporting</li>
+                                        <li>Strategy refinement</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Visibility Analysis Tab -->
+            <div id="visibility-tab" class="tab-panel">
+                <div class="content-grid">
+                    <div class="card full-width">
+                        <div class="card__header">
+                            <h3>Brand Visibility Across AI Platforms</h3>
+                        </div>
+                        <div class="card__body">
+                            <img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/365e438ceda6506ef89447fe50660929/55358649-f9a7-465d-a0d5-7a5a37290fc9/13175ab1.png" alt="Brand Visibility Chart" class="chart-image">
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Visibility Performance Table</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="data-table">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>Brand</th>
+                                            <th>Visibility Rate</th>
+                                            <th>Avg Position</th>
+                                            <th>Improvement Potential</th>
+                                            <th>Sentiment Score</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="visibility-table">
+                                        <!-- Populated by JavaScript -->
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Gap Analysis</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="gap-analysis">
+                                <div class="gap-metric">
+                                    <h4>Visibility Gap</h4>
+                                    <div class="gap-value">-22%</div>
+                                    <p>Below industry benchmark</p>
+                                </div>
+                                <div class="gap-metric">
+                                    <h4>Position Gap</h4>
+                                    <div class="gap-value">+0.7</div>
+                                    <p>Lower than optimal position</p>
+                                </div>
+                                <div class="gap-metric">
+                                    <h4>Missed Opportunities</h4>
+                                    <div class="gap-value">28.4%</div>
+                                    <p>Average improvement potential</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Competitive Intelligence Tab -->
+            <div id="competitive-tab" class="tab-panel">
+                <div class="content-grid">
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Competitive Positioning Matrix</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="chart-container" style="position: relative; height: 300px;">
+                                <canvas id="competitiveChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Market Share of Voice</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="chart-container" style="position: relative; height: 300px;">
+                                <canvas id="marketShareChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card full-width">
+                        <div class="card__header">
+                            <h3>Head-to-Head Comparison</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="data-table">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>Brand</th>
+                                            <th>Type</th>
+                                            <th>Visibility Score</th>
+                                            <th>Sentiment Score</th>
+                                            <th>Citation Frequency</th>
+                                            <th>Market Share %</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="competitive-table">
+                                        <!-- Populated by JavaScript -->
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Citation Analysis Tab -->
+            <div id="citation-tab" class="tab-panel">
+                <div class="content-grid">
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Citation Source Breakdown</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="chart-container" style="position: relative; height: 300px;">
+                                <canvas id="citationChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Source Influence Analysis</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="influence-grid">
+                                <div class="influence-item">
+                                    <h4>Review Sites</h4>
+                                    <div class="influence-score">0.91</div>
+                                    <div class="influence-bar">
+                                        <div class="bar-fill" style="width: 91%"></div>
+                                    </div>
+                                    <p>34 citations • High influence</p>
+                                </div>
+                                <div class="influence-item">
+                                    <h4>Industry Publications</h4>
+                                    <div class="influence-score">0.85</div>
+                                    <div class="influence-bar">
+                                        <div class="bar-fill" style="width: 85%"></div>
+                                    </div>
+                                    <p>26 citations • High influence</p>
+                                </div>
+                                <div class="influence-item">
+                                    <h4>LinkedIn Articles</h4>
+                                    <div class="influence-score">0.79</div>
+                                    <div class="influence-bar">
+                                        <div class="bar-fill" style="width: 79%"></div>
+                                    </div>
+                                    <p>22 citations • Medium influence</p>
+                                </div>
+                                <div class="influence-item">
+                                    <h4>Reddit Discussions</h4>
+                                    <div class="influence-score">0.73</div>
+                                    <div class="influence-bar">
+                                        <div class="bar-fill" style="width: 73%"></div>
+                                    </div>
+                                    <p>18 citations • Medium influence</p>
+                                </div>
+                                <div class="influence-item">
+                                    <h4>Company Blogs</h4>
+                                    <div class="influence-score">0.68</div>
+                                    <div class="influence-bar">
+                                        <div class="bar-fill" style="width: 68%"></div>
+                                    </div>
+                                    <p>35 citations • Medium influence</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>High-Impact Target Sources</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="target-sources">
+                                <div class="source-recommendation">
+                                    <div class="source-priority high">HIGH</div>
+                                    <div class="source-content">
+                                        <h4>Review Sites Optimization</h4>
+                                        <p>Focus on G2, Capterra, and TrustRadius for maximum AI citation impact</p>
+                                        <span class="source-impact">Expected impact: +15% visibility</span>
+                                    </div>
+                                </div>
+                                <div class="source-recommendation">
+                                    <div class="source-priority high">HIGH</div>
+                                    <div class="source-content">
+                                        <h4>Industry Publication Features</h4>
+                                        <p>Secure thought leadership articles in TechCrunch, VentureBeat</p>
+                                        <span class="source-impact">Expected impact: +12% visibility</span>
+                                    </div>
+                                </div>
+                                <div class="source-recommendation">
+                                    <div class="source-priority medium">MEDIUM</div>
+                                    <div class="source-content">
+                                        <h4>LinkedIn Content Strategy</h4>
+                                        <p>Increase executive visibility through strategic content publishing</p>
+                                        <span class="source-impact">Expected impact: +8% visibility</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Performance Timeline Tab -->
+            <div id="timeline-tab" class="tab-panel">
+                <div class="content-grid">
+                    <div class="card full-width">
+                        <div class="card__header">
+                            <h3>12-Week Visibility Improvement Timeline</h3>
+                        </div>
+                        <div class="card__body">
+                            <img src="https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/365e438ceda6506ef89447fe50660929/d34ea29c-178d-46dd-8eca-ae5154882c6a/f973ae45.png" alt="GEO Timeline Chart" class="chart-image">
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Milestone Tracking</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="milestone-list">
+                                <div class="milestone completed">
+                                    <div class="milestone-marker"></div>
+                                    <div class="milestone-content">
+                                        <h4>Week 4: Foundation Complete</h4>
+                                        <p>35% visibility achieved</p>
+                                        <span class="milestone-date">Nov 5, 2024</span>
+                                    </div>
+                                </div>
+                                <div class="milestone completed">
+                                    <div class="milestone-marker"></div>
+                                    <div class="milestone-content">
+                                        <h4>Week 8: Optimization Phase</h4>
+                                        <p>52% visibility achieved</p>
+                                        <span class="milestone-date">Dec 3, 2024</span>
+                                    </div>
+                                </div>
+                                <div class="milestone upcoming">
+                                    <div class="milestone-marker"></div>
+                                    <div class="milestone-content">
+                                        <h4>Week 12: Full Implementation</h4>
+                                        <p>Target: 72% visibility</p>
+                                        <span class="milestone-date">Dec 31, 2024</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Growth Trajectory Analysis</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="trajectory-metrics">
+                                <div class="trajectory-item">
+                                    <h4>Starting Position</h4>
+                                    <div class="trajectory-value">28%</div>
+                                    <p>Initial visibility rate</p>
+                                </div>
+                                <div class="trajectory-item">
+                                    <h4>Current Progress</h4>
+                                    <div class="trajectory-value">43%</div>
+                                    <p>8-week improvement</p>
+                                </div>
+                                <div class="trajectory-item">
+                                    <h4>Projected End</h4>
+                                    <div class="trajectory-value">72%</div>
+                                    <p>12-week target</p>
+                                </div>
+                                <div class="trajectory-item highlight">
+                                    <h4>Total Improvement</h4>
+                                    <div class="trajectory-value">+44%</div>
+                                    <p>Visibility increase</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Recommendations Tab -->
+            <div id="recommendations-tab" class="tab-panel">
+                <div class="content-grid">
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Impact vs Effort Matrix</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="matrix">
+                                <div class="matrix-quadrant high-impact low-effort">
+                                    <h4>Quick Wins</h4>
+                                    <div class="matrix-item">FAQ Content</div>
+                                    <div class="matrix-item">Schema Markup</div>
+                                </div>
+                                <div class="matrix-quadrant high-impact high-effort">
+                                    <h4>Major Projects</h4>
+                                    <div class="matrix-item">Authority Building</div>
+                                    <div class="matrix-item">Content Strategy</div>
+                                </div>
+                                <div class="matrix-quadrant low-impact low-effort">
+                                    <h4>Fill-Ins</h4>
+                                    <div class="matrix-item">Social Mentions</div>
+                                </div>
+                                <div class="matrix-quadrant low-impact high-effort">
+                                    <h4>Avoid</h4>
+                                    <div class="matrix-item">Generic Content</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Priority Action Items</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="action-list">
+                                <div class="action-item priority-1">
+                                    <div class="action-priority">1</div>
+                                    <div class="action-content">
+                                        <h4>Create FAQ-style content for top 20 user queries</h4>
+                                        <p>Direct response format optimized for AI understanding</p>
+                                        <div class="action-meta">
+                                            <span class="effort">2 weeks</span>
+                                            <span class="impact">High Impact</span>
+                                            <span class="cost">$3K</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="action-item priority-2">
+                                    <div class="action-priority">2</div>
+                                    <div class="action-content">
+                                        <h4>Optimize content for natural language processing</h4>
+                                        <p>Restructure existing content for conversational queries</p>
+                                        <div class="action-meta">
+                                            <span class="effort">3 weeks</span>
+                                            <span class="impact">High Impact</span>
+                                            <span class="cost">$5K</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="action-item priority-3">
+                                    <div class="action-priority">3</div>
+                                    <div class="action-content">
+                                        <h4>Build authoritative backlinks from industry publications</h4>
+                                        <p>Secure high-quality citations from trusted sources</p>
+                                        <div class="action-meta">
+                                            <span class="effort">6 weeks</span>
+                                            <span class="impact">High Impact</span>
+                                            <span class="cost">$8K</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="action-item priority-4">
+                                    <div class="action-priority">4</div>
+                                    <div class="action-content">
+                                        <h4>Implement structured data markup</h4>
+                                        <p>Technical SEO foundation for AI comprehension</p>
+                                        <div class="action-meta">
+                                            <span class="effort">1 week</span>
+                                            <span class="impact">Medium Impact</span>
+                                            <span class="cost">$2K</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="action-item priority-5">
+                                    <div class="action-priority">5</div>
+                                    <div class="action-content">
+                                        <h4>Develop persona-specific content strategies</h4>
+                                        <p>Tailored content for different user intents and contexts</p>
+                                        <div class="action-meta">
+                                            <span class="effort">4 weeks</span>
+                                            <span class="impact">Medium Impact</span>
+                                            <span class="cost">$6K</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Resource Requirements</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="resource-breakdown">
+                                <div class="resource-category">
+                                    <h4>Content Team</h4>
+                                    <div class="resource-detail">
+                                        <span>2 Content Strategists</span>
+                                        <span>$12K</span>
+                                    </div>
+                                    <div class="resource-detail">
+                                        <span>1 Technical Writer</span>
+                                        <span>$8K</span>
+                                    </div>
+                                </div>
+                                <div class="resource-category">
+                                    <h4>Technical Team</h4>
+                                    <div class="resource-detail">
+                                        <span>1 SEO Specialist</span>
+                                        <span>$6K</span>
+                                    </div>
+                                    <div class="resource-detail">
+                                        <span>Development Support</span>
+                                        <span>$2K</span>
+                                    </div>
+                                </div>
+                                <div class="total-investment">
+                                    <strong>Total Investment: $28K</strong>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ROI Calculator Tab -->
+            <div id="roi-tab" class="tab-panel">
+                <div class="content-grid">
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Interactive ROI Calculator</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="calculator-inputs">
+                                <div class="input-group">
+                                    <label for="investment">Total Investment ($)</label>
+                                    <input type="number" id="investment" class="form-control" value="28000" min="0">
+                                </div>
+                                <div class="input-group">
+                                    <label for="visibility-lift">Expected Visibility Lift (%)</label>
+                                    <input type="number" id="visibility-lift" class="form-control" value="29" min="0" max="100">
+                                </div>
+                                <div class="input-group">
+                                    <label for="avg-deal-size">Average Deal Size ($)</label>
+                                    <input type="number" id="avg-deal-size" class="form-control" value="50000" min="0">
+                                </div>
+                                <div class="input-group">
+                                    <label for="conversion-rate">Conversion Rate (%)</label>
+                                    <input type="number" id="conversion-rate" class="form-control" value="2.5" min="0" max="100" step="0.1">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Scenario Comparison</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="scenario-tabs">
+                                <button class="scenario-btn active" data-scenario="conservative">Conservative</button>
+                                <button class="scenario-btn" data-scenario="realistic">Realistic</button>
+                                <button class="scenario-btn" data-scenario="optimistic">Optimistic</button>
+                            </div>
+                            <div class="scenario-results">
+                                <div class="result-metric">
+                                    <h4>Return on Investment</h4>
+                                    <div id="roi-result" class="result-value">346%</div>
+                                </div>
+                                <div class="result-metric">
+                                    <h4>Net Profit</h4>
+                                    <div id="profit-result" class="result-value">$97,000</div>
+                                </div>
+                                <div class="result-metric">
+                                    <h4>Payback Period</h4>
+                                    <div id="payback-result" class="result-value">6 months</div>
+                                </div>
+                                <div class="result-metric">
+                                    <h4>Monthly Revenue Lift</h4>
+                                    <div id="revenue-result" class="result-value">$20,800</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card full-width">
+                        <div class="card__header">
+                            <h3>Break-Even Analysis</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="chart-container" style="position: relative; height: 300px;">
+                                <canvas id="breakEvenChart"></canvas>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card__header">
+                            <h3>Long-Term Value Projection</h3>
+                        </div>
+                        <div class="card__body">
+                            <div class="projection-timeline">
+                                <div class="projection-period">
+                                    <h4>Year 1</h4>
+                                    <div class="projection-value">$125,000</div>
+                                    <p>Initial implementation returns</p>
+                                </div>
+                                <div class="projection-period">
+                                    <h4>Year 2</h4>
+                                    <div class="projection-value">$180,000</div>
+                                    <p>Compound growth effects</p>
+                                </div>
+                                <div class="projection-period">
+                                    <h4>Year 3</h4>
+                                    <div class="projection-value">$250,000</div>
+                                    <p>Market leadership position</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
